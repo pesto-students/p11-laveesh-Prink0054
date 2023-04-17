@@ -118,22 +118,22 @@ Horizontal scaling means scaling by adding more machines to your pool of resourc
 # What is SEO (Search Engine Optimization), and how can web developers optimize their websites for better search engine rankings?
 
 
-Search engine optimization (SEO) is the art and science of getting pages to rank higher in search engines such as Google. Because search is one of the main ways in which people discover content online, ranking higher in search engines can lead to an increase in traffic to a website.
+**Search engine optimization (SEO)** is the art and science of getting pages to rank higher in search engines such as Google. Because search is one of the main ways in which people discover content online, ranking higher in search engines can lead to an increase in traffic to a website.
 
 
-Google’s search algorithm uses more than 200 factors to rank a website. It’s hard for any one designer to account for all. Instead, start by optimizing the following 10 elements to get your pages ranking:
+Google’s search algorithm uses more than 200 factors to rank a website. Web developers start by optimizing the following 10 elements to get pages ranking:
 
 
-Mobile-friendliness
-Website speed
-Sitemaps
-Readability 
-Image file names
-Alt tags 
-Website navigation
-URL structure
-Metadata
-Indexable content
+**Mobile-friendliness**.  
+**Website speed**.   
+**Sitemaps**. 
+**Readability**.     
+**Image file names**.  
+**Alt tags**.  
+**Website navigation**.  
+**URL structure**  
+**Metadata**  
+**Indexable content** 
 
 
 
